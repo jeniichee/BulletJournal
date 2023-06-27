@@ -6,31 +6,6 @@
 
 ![finalGUI.png](finalGUI.png)
 
-# PITCH
-
-Transform the way you plan, organize, and express yourself with ease and efficiency.
-The Fire Hazard Bullet Journal provides users with access to a catered and seamless event management tool.
-
-Our features include:
-
-1. An intuitive user interface
-    - seamlessly add events and tasks that can be categorized by SCHOOL, WORK, SOCIAL, PERSONAL, and/or IMPORTANT to
-      maintain organization
-    - effortlessly keep track of and manage which tasks are completed, and which are yet to be completed
-    - made a mistake in creating an event or task? simply click on the edit button and the event or task you want to edit;
-      or press delete to easily remove the item 
-    - save your weeks with the click of a button in a personalized bujo file without missing any important information
-2. Personal weekly statistics
-    - Easily keep track of your busy week through a progress report of total events and tasks as
-      well as a percent of tasks completed allowing for effortless goal management
-3. Versatile quotes and notes
-    - Allow your self to be inspired by our quote tool that lets users display a message of their choosing throughout
-      the week
-    - If quotes aren't your thing jog your memory by adding quick notes and reminders
-4. Security
-    - Protect the contents of your journal, and ensure absolute privacy with a password
-    - Access your journal with the password '**_firehazard_** '. 
-
 # SOLID
 
 1. Single Responsibility Principle:
@@ -70,3 +45,8 @@ add a drop-down for sorting by time, name, or no sort then call the sorting meth
 
 # IMAGE CREDIT
 Splash gif: https://tenor.com/view/cat-yawn-cute-sleepy-tired-gif-15696533 
+
+# TO ACCESS
+1. Download this repo.
+2. Run the driver.
+3. Enter the password '**_firehazard_**'. 
