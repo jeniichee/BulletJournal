@@ -1,9 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/x6ckGcN8)
-
-# 3500 PA05 Project Repo
-
-[PA Write Up](https://markefontenot.notion.site/PA-05-8263d28a81a7473d8372c6579abd6481)
-
 ### Initial Design:
 
 <img width="816" alt="Week GUI" src="https://github.com/CS-3500-OOD/pa05-fire-hazard/assets/123319961/d479df3e-b06b-4974-9c89-855c6f625d12">
