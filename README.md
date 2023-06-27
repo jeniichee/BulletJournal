@@ -1,3 +1,6 @@
+# COLLABORATORS 
+Jennifer Cheung, Marcus Feng, Jona Fejzaj
+
 ### Initial Design:
 
 <img width="816" alt="Week GUI" src="https://github.com/CS-3500-OOD/pa05-fire-hazard/assets/123319961/d479df3e-b06b-4974-9c89-855c6f625d12">
