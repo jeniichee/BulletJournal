@@ -1,4 +1,4 @@
-# COLLABORATORS 
+### Collaborators 
 Jennifer Cheung, Marcus Feng, Jona Fejzaj
 
 ### Initial Design:
